@@ -1,0 +1,5 @@
+﻿  lab2Dejkster.cpp
+C:\Users\monke\source\repos\lab2Dejkster\lab2Dejkster\lab2Dejkster.cpp(36,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\monke\source\repos\lab2Dejkster\lab2Dejkster\lab2Dejkster.cpp(181,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\monke\source\repos\lab2Dejkster\lab2Dejkster\lab2Dejkster.cpp(44): warning C4715: priority: значение возвращается не при всех путях выполнения
+  lab2Dejkster.vcxproj -> C:\Users\monke\source\repos\lab2Dejkster\x64\Debug\lab2Dejkster.exe
